@@ -1,0 +1,8 @@
+D:\учеба\лялялл\03\pr2_3\pr2_3\bin\Debug\pr2_3.exe.config
+D:\учеба\лялялл\03\pr2_3\pr2_3\bin\Debug\pr2_3.exe
+D:\учеба\лялялл\03\pr2_3\pr2_3\bin\Debug\pr2_3.pdb
+D:\учеба\лялялл\03\pr2_3\pr2_3\obj\Debug\pr2_3.csproj.AssemblyReference.cache
+D:\учеба\лялялл\03\pr2_3\pr2_3\obj\Debug\pr2_3.csproj.SuggestedBindingRedirects.cache
+D:\учеба\лялялл\03\pr2_3\pr2_3\obj\Debug\pr2_3.csproj.CoreCompileInputs.cache
+D:\учеба\лялялл\03\pr2_3\pr2_3\obj\Debug\pr2_3.exe
+D:\учеба\лялялл\03\pr2_3\pr2_3\obj\Debug\pr2_3.pdb
